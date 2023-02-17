@@ -1,2 +1,2 @@
-# streamlit-demo-uber-pickups
-Steamlit demo - Uber pickups
+# Streamlit demo - Uber pickups in NYC
+
